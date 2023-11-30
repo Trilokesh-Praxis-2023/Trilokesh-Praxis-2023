@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Trilokesh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+As a data science enthusiast, this is my github repository where I upload my work:
 
-<!---
-Trilokesh-Praxis-2023/Trilokesh-Praxis-2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Projects Description:
+1.Breast Cancer Classification:  To accurately classify breast cancer tumors for early detection, prognosis, and treatment planning using machine learning.
+2.Finance Loan approval: Develop a ml model to assess loan applications, improving accuracy, efficiency with regulatory requirements in financial lending.
+3.Mobile Price Prediction: Predict mobile phone prices accurately to aid consumers in informed purchasing decisions and inventory management.
