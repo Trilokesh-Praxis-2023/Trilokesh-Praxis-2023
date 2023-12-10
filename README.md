@@ -12,10 +12,9 @@
 - 1.Super Store: Power BI dashboard: Optimize business decisions with time series analysis, precise sales forecasting, and historical performance insights.
 - 2.Breast Cancer Classification:  To accurately classify breast cancer tumors for early detection, prognosis, and treatment planning using machine learning.
 - 3.Mobile Price Prediction: Predict mobile phone prices accurately to aid consumers in informed purchasing decisions and inventory management.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/trilokesh-ranjan-sarkar-667a761b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[www.linkedin.com/in/trilokesh-ranjan-sarkar-667a761b3](https://www.linkedin.com/in/trilokesh-ranjan-sarkar-667a761b3/)" height="30" width="40" /></a></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/trilokesh-ranjan-sarkar-667a761b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/trilokesh-ranjan-sarkar-667a761b3/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
