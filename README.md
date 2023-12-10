@@ -11,12 +11,23 @@
     <li>📫 How to reach me: <strong>trilokesh.ranjan.sarkar_ds23fall@praxistech.school</strong></li>
   </ul>
 
-  <h2>Projects Description:</h2>
-  <ol>
-    <li>Super Store: Power BI dashboard - Optimize business decisions with time series analysis, precise sales forecasting, and historical performance insights.</li>
-    <li>Breast Cancer Classification - To accurately classify breast cancer tumors for early detection, prognosis, and treatment planning using machine learning.</li>
-    <li>Mobile Price Prediction - Predict mobile phone prices accurately to aid consumers in informed purchasing decisions and inventory management.</li>
-  </ol>
+  ## Projects Description:
+
+<ol>
+  <li>
+    <strong>Super Store: Power BI dashboard</strong>
+    <p>Optimize business decisions with time series analysis, precise sales forecasting, and historical performance insights.</p>
+  </li>
+  <li>
+    <strong>Breast Cancer Classification</strong>
+    <p>To accurately classify breast cancer tumors for early detection, prognosis, and treatment planning using machine learning.</p>
+  </li>
+  <li>
+    <strong>Mobile Price Prediction</strong>
+    <p>Predict mobile phone prices accurately to aid consumers in informed purchasing decisions and inventory management.</p>
+  </li>
+</ol>
+
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
