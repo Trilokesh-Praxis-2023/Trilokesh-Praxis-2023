@@ -1,32 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Trilokesh Ranjan Sarkar's Profile</title>
-  <style>
-    body {
-      background: linear-gradient(to right, #ff7e5f, #feb47b); /* Customize the gradient colors */
-      font-family: 'Arial', sans-serif;
-      color: #fff; /* Set text color to white or light color for better visibility */
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-    h1, h3 {
-      margin-bottom: 10px;
-    }
-    p {
-      margin: 5px 0;
-    }
-    .profile-img {
-      max-width: 100%;
-      height: auto;
-    }
-    /* Add any additional styles here */
-  </style>
-</head>
-<body>
+
 
   <h1 align="center">Hi 👋, I'm Trilokesh Ranjan Sarkar</h1>
   <h3 align="center">A passionate data science aspirant from India, As a data science enthusiast, this is my GitHub repository where I upload my work</h3>
