@@ -1,12 +1,6 @@
-# As a data science enthusiast, this is my github repository where I upload my work:
 
-## Projects Description:
-
--  1.Super Store: Power BI dashboard: Optimize business decisions with time series analysis, precise sales forecasting, and historical performance insights.
-- 2.Breast Cancer Classification:  To accurately classify breast cancer tumors for early detection, prognosis, and treatment planning using machine learning.
-- 3.Mobile Price Prediction: Predict mobile phone prices accurately to aid consumers in informed purchasing decisions and inventory management.
 h1 align="center">Hi 👋, I'm Trilokesh Ranjan Sarkar</h1>
-<h3 align="center">A passionate data science aspirant from India</h3>
+<h3 align="center">A passionate data science aspirant from India, As a data science enthusiast, this is my github repository where I upload my work</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trilokesh-praxis-2023&label=Profile%20views&color=0e75b6&style=flat" alt="trilokesh-praxis-2023" /> </p>
 
@@ -15,6 +9,10 @@ h1 align="center">Hi 👋, I'm Trilokesh Ranjan Sarkar</h1>
 - 💬 Ask me about **python, ML, R**
 
 - 📫 How to reach me **trilokesh.ranjan.sarkar_ds23fall@praxistech.school**
+ ## Projects Description:
+- 1.Super Store: Power BI dashboard: Optimize business decisions with time series analysis, precise sales forecasting, and historical performance insights.
+- 2.Breast Cancer Classification:  To accurately classify breast cancer tumors for early detection, prognosis, and treatment planning using machine learning.
+- 3.Mobile Price Prediction: Predict mobile phone prices accurately to aid consumers in informed purchasing decisions and inventory management.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
