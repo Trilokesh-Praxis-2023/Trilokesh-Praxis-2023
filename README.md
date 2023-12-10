@@ -70,3 +70,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trilokesh-praxis-2023&show_icons=true&locale=en" alt="trilokesh-praxis-2023" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trilokesh-praxis-2023&" alt="trilokesh-praxis-2023" /></p>
+
+
+
+
+- Animated Laptop Banner
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+<br><br>
+
