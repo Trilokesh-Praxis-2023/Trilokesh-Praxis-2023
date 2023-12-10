@@ -1,5 +1,4 @@
-
-h1 align="center">Hi 👋, I'm Trilokesh Ranjan Sarkar</h1>
+<h1 align="center">Hi 👋, I'm Trilokesh Ranjan Sarkar</h1>
 <h3 align="center">A passionate data science aspirant from India, As a data science enthusiast, this is my github repository where I upload my work</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trilokesh-praxis-2023&label=Profile%20views&color=0e75b6&style=flat" alt="trilokesh-praxis-2023" /> </p>
