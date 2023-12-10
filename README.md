@@ -1,4 +1,4 @@
-
+[![MasterHead](https://docs.telerik.com/devtools/wpf/controls/radchartview/features/images/radchartview-features-animations-main-animations.gif)]
 
   <h1 align="center">Hi 👋, I'm Trilokesh Ranjan Sarkar</h1>
   <h3 align="center">A passionate data science aspirant from India, As a data science enthusiast, this is my GitHub repository where I upload my work</h3>
