@@ -58,7 +58,12 @@
   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"></a>
   <a href="https://plotly.com/"><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"></a>
   <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-%230077B5.svg?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"></a>
+  <a href="https://www.sqlalchemy.org/"><img src="https://img.shields.io/badge/SQLAlchemy-%2307405e.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+  <a href="https://www.elastic.co/"><img src="https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"></a>
+  <a href="https://www.spark.apache.org/"><img src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white" alt="Apache Spark"></a>
 </p>
+
 
 
 
