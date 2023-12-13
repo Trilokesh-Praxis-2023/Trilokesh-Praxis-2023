@@ -69,12 +69,13 @@
 
 <div style="text-align: center;">
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trilokesh-praxis-2023&show_icons=true&locale=en&layout=compact" alt="trilokesh-praxis-2023" /></p>
+  <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=trilokesh-praxis-2023&show_icons=true&locale=en&layout=compact" alt="trilokesh-praxis-2023" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trilokesh-praxis-2023&show_icons=true&locale=en" alt="trilokesh-praxis-2023" /></p>
+  <p><img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=trilokesh-praxis-2023&show_icons=true&locale=en" alt="trilokesh-praxis-2023" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trilokesh-praxis-2023&" alt="trilokesh-praxis-2023" /></p>
+  <p><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=trilokesh-praxis-2023&" alt="trilokesh-praxis-2023" /></p>
 
 </div>
+
 
 
