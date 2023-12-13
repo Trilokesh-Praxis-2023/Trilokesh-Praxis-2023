@@ -67,7 +67,7 @@
 
 
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
+<div style="display: grid; grid-template-columns: repeat(3, 40%); gap: 20px; text-align: center;">
 
   <div>
     <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=trilokesh-praxis-2023&show_icons=true&locale=en&layout=compact" alt="trilokesh-praxis-2023" />
@@ -85,6 +85,7 @@
   </div>
 
 </div>
+
 
 
 
