@@ -70,17 +70,17 @@
 <div style="display: grid; grid-template-columns: repeat(3, 40%); gap: 20px; text-align: center;">
 
   <div>
-    <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=trilokesh-praxis-2023&show_icons=true&locale=en&layout=compact" alt="trilokesh-praxis-2023" />
+    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=trilokesh-praxis-2023&show_icons=true&locale=en&layout=compact" alt="trilokesh-praxis-2023" />
     <p>Top Languages</p>
   </div>
 
   <div>
-    <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=trilokesh-praxis-2023&show_icons=true&locale=en" alt="trilokesh-praxis-2023" />
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=trilokesh-praxis-2023&show_icons=true&locale=en" alt="trilokesh-praxis-2023" />
     <p>GitHub Stats</p>
   </div>
 
   <div>
-    <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=trilokesh-praxis-2023&" alt="trilokesh-praxis-2023" />
+    <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=trilokesh-praxis-2023&" alt="trilokesh-praxis-2023" />
     <p>GitHub Streak</p>
   </div>
 
