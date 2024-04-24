@@ -17,6 +17,15 @@
   ## Projects Description:
 
 <ol>
+    <li>
+    <strong>Evaluating Adversarial Robustness: A Comparison Of FGSM, Carlini-Wagner Attacks, And the Role of Distillation as Defense Mechanism.</strong>
+    <p>As the increase of the use of A.I. our word investigates on the adversarial attack targeting the DNN, LMM, etc. We have also shown the defence for FGSM attack using Defensive           Distillation.
+      We have also shown the vulnerabilities of Defensive Distillation against Carlini-Wagner attack.</p>
+  </li>
+  <li>
+    <strong>Weather Net</strong>
+    <p>To detect Cyclones, Lightening, heavy rainfall, Snow Fall, before reaching to highly populated area, and reducing the damage and giving alert based on weather condition.</p>
+  </li>
   <li>
     <strong>Super Store: Power BI dashboard</strong>
     <p>Optimize business decisions with time series analysis, precise sales forecasting, and historical performance insights.</p>
