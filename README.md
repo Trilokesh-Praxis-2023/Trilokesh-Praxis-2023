@@ -38,7 +38,7 @@
 📍 Location preference: **India | Remote**
 
 📄 Resume: *Available on request*  
-📫 Email: **trilokesh.ranjan.sarkar_ds23fall@praxistech.school**
+📫 Email: **trilokesh086@gmail.com**
 
 If my work aligns with your requirements, feel free to reach out — I’d love to connect!
 
