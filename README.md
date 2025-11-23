@@ -19,7 +19,7 @@
 - 🧪 Research experience in **Adversarial ML & Defensive Distillation**
 - 🌱 Learning: **Deep Learning, Generative AI, MLOps**
 - 💬 Ask me about: **Python, ML, R, Automation**
-- 📫 Email: **trilokesh.ranjan.sarkar_ds23fall@praxistech.school**
+- 📫 Email: **trilokesh086@gmail.com**
 
 ---
 
