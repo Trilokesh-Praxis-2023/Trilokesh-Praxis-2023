@@ -2,90 +2,127 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
 </p>
 
-  <h1 align="center">Hi 👋, I'm Trilokesh Ranjan Sarkar</h1>
-  <h3 align="center">A passionate data science aspirant from India, As a data science enthusiast, this is my GitHub repository where I upload my work</h3>
+<h1 align="center">Hi 👋, I'm Trilokesh Ranjan Sarkar</h1>
+<h3 align="center">Data Analyst & AI Enthusiast | Machine Learning • Automation • Video Analytics</h3>
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=trilokesh-praxis-2023&label=Profile%20views&color=0e75b6&style=flat" alt="trilokesh-praxis-2023" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=trilokesh-praxis-2023&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-  <ul>
-    <li>🌱 I’m currently learning <strong>Python, R, PowerBI, Tableau, Machine Learning, Deep Learning, Generative AI, etc.</strong></li>
-    <li>💬 Ask me about <strong>Python, ML, R</strong></li>
-    <li>📫 How to reach me: <strong>trilokesh.ranjan.sarkar_ds23fall@praxistech.school</strong></li>
-  </ul>
+---
 
-  ## Projects Description:
+## 🚀 About Me
 
-<ol>
-    <li>
-    <strong>Evaluating Adversarial Robustness: A Comparison Of FGSM, Carlini-Wagner Attacks, And the Role of Distillation as Defense Mechanism.</strong>
-    <p>As the increase of the use of A.I. our word investigates on the adversarial attack targeting the DNN, LMM, etc. We have also shown the defence for FGSM attack using Defensive           Distillation.
-      We have also shown the vulnerabilities of Defensive Distillation against Carlini-Wagner attack.</p>
-  </li>
-  <li>
-    <strong>Weather Net</strong>
-    <p>To detect Cyclones, Lightening, heavy rainfall, Snow Fall, before reaching to highly populated area, and reducing the damage and giving alert based on weather condition.</p>
-  </li>
-  <li>
-    <strong>Super Store: Power BI dashboard</strong>
-    <p>Optimize business decisions with time series analysis, precise sales forecasting, and historical performance insights.</p>
-  </li>
-  <li>
-    <strong>Breast Cancer Classification</strong>
-    <p>To accurately classify breast cancer tumors for early detection, prognosis, and treatment planning using machine learning.</p>
-  </li>
-  <li>
-    <strong>Mobile Price Prediction</strong>
-    <p>Predict mobile phone prices accurately to aid consumers in informed purchasing decisions and inventory management.</p>
-  </li>
-</ol>
+- 🔭 Currently working as **Data Analyst at Webspider**
+- 📊 Working on **Video AI Retail Analytics System** (heatmaps, customer movement tracking, buying patterns)
+- 🤖 Built **Automation system for verifying products from vendor websites to Amazon** using Selenium + similarity scoring
+- 🧪 Research experience in **Adversarial ML & Defensive Distillation**
+- 🌱 Learning: **Deep Learning, Generative AI, MLOps**
+- 💬 Ask me about: **Python, ML, R, Automation**
+- 📫 Email: **trilokesh.ranjan.sarkar_ds23fall@praxistech.school**
 
+---
 
-<h3 align="left">Connect with me:</h3>
+## 💼 Open to Opportunities
+
+🎯 Looking for roles in:
+
+- Data Analyst
+- Machine Learning Engineer
+- AI Engineer
+- Data Scientist (Junior)
+- Automation Engineer
+
+🏢 Open to: **Full-time | Internship | Contract | Remote / Hybrid**
+
+📍 Location preference: **India | Remote**
+
+📄 Resume: *Available on request*  
+📫 Email: **trilokesh.ranjan.sarkar_ds23fall@praxistech.school**
+
+If my work aligns with your requirements, feel free to reach out — I’d love to connect!
+
+---
+
+## 🧠 Featured Projects
+
+### 🔹 Evaluating Adversarial Robustness
+FGSM vs Carlini-Wagner + Defense Distillation
+- Studied neural network vulnerabilities
+- Implemented Defensive Distillation
+- Demonstrated weaknesses against C&W attack
+
+---
+
+### 🔹 Video AI – Retail Analytics System
+- Live surveillance processing
+- Customer heatmaps & movement tracking
+- Behavior analysis for business decisions
+
+---
+
+### 🔹 LinkedIn Job Scraper & Email Automation
+- Extracts job posts
+- Filters based on skills & experience
+- Sends personalized emails automatically
+- Stores history + analytics
+
+---
+
+### 🔹 Product Verification Automation
+- Scrapes vendor websites
+- Matches product attributes with Amazon
+- Uses similarity scoring
+- Automates verification workflow
+
+---
+
+### 🔹 Super Store – Power BI Dashboard
+- Sales forecasting
+- Historical performance insights
+- KPIs and analytics
+
+---
+
+### 🔹 Breast Cancer Classification
+- ML-based diagnosis model
+- Feature importance & prediction
+
+---
+
+### 🔹 Mobile Price Prediction
+- Predicts smartphone pricing
+- Supports purchase and inventory decisions
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/trilokesh-ranjan-sarkar-667a761b3/" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="40" width="50" />
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="40" width="50" />
   </a>
 </p>
 
-  </a>
-</p>
-    </a>
-  </p>
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 🛠️ Languages & Tools
+
 <p align="center">
-  <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
-  <a href="https://www.jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"></a>
-  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
-  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
-  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-%23D00000.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib"></a>
-  <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-%2307405e.svg?style=for-the-badge&logo=Seaborn&logoColor=white" alt="Seaborn"></a>
-  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"></a>
-  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"></a>
-  <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"></a>
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"></a>
-  <a href="https://plotly.com/"><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"></a>
-  <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-%230077B5.svg?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"></a>
-  <a href="https://www.sqlalchemy.org/"><img src="https://img.shields.io/badge/SQLAlchemy-%2307405e.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
-  <a href="https://www.elastic.co/"><img src="https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"></a>
-  <a href="https://www.spark.apache.org/"><img src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white" alt="Apache Spark"></a>
+  <img src="https://skills.thijs.gg/icons?i=python,r,selenium,tensorflow,pytorch,sklearn,pandas,numpy,sql,tableau,powerbi,docker,git,linux&theme=light" />
 </p>
 
+---
 
+## 📈 Skills Visualization Chart
 
-
-<div style="text-align: center;">
-
-  <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=trilokesh-praxis-2023&show_icons=true&locale=en&layout=compact" alt="trilokesh-praxis-2023" /></p>
-
-  <p><img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=trilokesh-praxis-2023&show_icons=true&locale=en" alt="trilokesh-praxis-2023" /></p>
-
-  <p><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=trilokesh-praxis-2023&" alt="trilokesh-praxis-2023" /></p>
-
-</div>
-
-
-
-
-
+```mermaid
+%% Skills Chart
+pie title Skill Proficiency
+    "Python" : 90
+    "Machine Learning" : 80
+    "Deep Learning" : 70
+    "Data Visualization" : 85
+    "Automation (Selenium)" : 75
+    "SQL" : 65
+    "PowerBI/Tableau" : 70
